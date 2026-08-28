@@ -2,9 +2,11 @@
 
 # 👋 Hey, I'm Aditya Pratap Singh
 
-### 💻 Developer | 🚀 Learner | 🧠 Problem Solver
+### 💻 Developer • 🚀 Learner • 🧠 Problem Solver
 
-Learning 📚 &nbsp; • &nbsp; Building 💻 &nbsp; • &nbsp; Improving 🚀
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learning+%F0%9F%93%9A;Building+%F0%9F%92%BB;Improving+Every+Day+%F0%9F%9A%80" />
+</p>
 
 </div>
 
@@ -12,11 +14,13 @@ Learning 📚 &nbsp; • &nbsp; Building 💻 &nbsp; • &nbsp; Improving 🚀
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Web Development**
-- 🌱 Currently learning **React & JavaScript**
-- 💻 Practicing **C++ & Data Structures**
+🎓 I'm a developer who loves learning new technologies and building projects.
+
+- 💻 Currently focusing on **Web Development**
+- 🌱 Learning **React & JavaScript**
+- 🧠 Practicing **C++ & Data Structures**
 - 🚀 Building projects and improving every day
-- 🎯 Goal: Become a skilled Software Developer
+- 🎯 Goal: Become a skilled **Software Developer**
 
 ---
 
@@ -24,13 +28,7 @@ Learning 📚 &nbsp; • &nbsp; Building 💻 &nbsp; • &nbsp; Improving 🚀
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,github,vscode" />
 
 </div>
 
@@ -38,26 +36,38 @@ Learning 📚 &nbsp; • &nbsp; Building 💻 &nbsp; • &nbsp; Improving 🚀
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔹 **PRODIGY_WD_01** | Web Development Project |
-| 🔹 **PRODIGY_WD_02** | JavaScript Project |
-| 🔹 **PRODIGY_WD_03** | Web Development Project |
-| 🔹 **PRODIGY_WD_04** | CSS / Web Development Project |
+<div align="center">
+
+| 🚀 Project | 💡 Technology | 🔗 Link |
+|:---:|:---:|:---:|
+| **PRODIGY_WD_01** | HTML • CSS • JavaScript | [View Project](https://github.com/adityasingh475/PRODIGY_WD_01) |
+| **PRODIGY_WD_02** | JavaScript | [View Project](https://github.com/adityasingh475/PRODIGY_WD_02) |
+| **PRODIGY_WD_03** | HTML • CSS | [View Project](https://github.com/adityasingh475/PRODIGY_WD_03) |
+| **PRODIGY_WD_04** | HTML • CSS • JavaScript | [View Project](https://github.com/adityasingh475/PRODIGY_WD_04) |
+
+</div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh475&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh475&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
