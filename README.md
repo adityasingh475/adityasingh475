@@ -117,7 +117,3 @@
 **Keep Learning • Keep Building • Keep Improving 🚀**
 
 </div>
-
-**Keep Learning • Keep Building • Keep Improving 🚀**
-
-</div>
