@@ -5,7 +5,9 @@
 ### 💻 Developer • 🚀 Learner • 🧠 Problem Solver
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learning+%F0%9F%93%9A;Building+%F0%9F%92%BB;Improving+Every+Day+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;C%2B%2B+Problem+Solver+%F0%9F%A7%A0;Learning+React+%F0%9F%8C%B1;Building+Projects+%F0%9F%9A%80" />
+</p>
 </p>
 
 </div>
@@ -14,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a developer who loves learning new technologies and building projects.
+🎓 I'm a developer who enjoys learning new technologies and building projects.
 
 - 💻 Currently focusing on **Web Development**
 - 🌱 Learning **React & JavaScript**
@@ -26,11 +28,23 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
 
-</div>
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -38,12 +52,12 @@
 
 <div align="center">
 
-| 🚀 Project | 💡 Technology | 🔗 Link |
+| 🚀 Project | 🛠️ Tech | 🔗 |
 |:---:|:---:|:---:|
-| **PRODIGY_WD_01** | HTML • CSS • JavaScript | [View Project](https://github.com/adityasingh475/PRODIGY_WD_01) |
-| **PRODIGY_WD_02** | JavaScript | [View Project](https://github.com/adityasingh475/PRODIGY_WD_02) |
-| **PRODIGY_WD_03** | HTML • CSS | [View Project](https://github.com/adityasingh475/PRODIGY_WD_03) |
-| **PRODIGY_WD_04** | HTML • CSS • JavaScript | [View Project](https://github.com/adityasingh475/PRODIGY_WD_04) |
+| **PRODIGY_WD_01** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_01) |
+| **PRODIGY_WD_02** | JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_02) |
+| **PRODIGY_WD_03** | HTML • CSS | [View →](https://github.com/adityasingh475/PRODIGY_WD_03) |
+| **PRODIGY_WD_04** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_04) |
 
 </div>
 
@@ -55,7 +69,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh475&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh475&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
@@ -85,11 +99,25 @@
 
 </div>
 
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adityasingh475&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+
+</div>
+
+
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Improving 🚀**
+
+</div>
 
 **Keep Learning • Keep Building • Keep Improving 🚀**
 
