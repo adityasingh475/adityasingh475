@@ -53,7 +53,7 @@
 
 | 🚀 Project | 🛠️ Tech | 🔗 |
 |:---|:---|:---:|
-| **PRODIGY_WD_01** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_01) |
+| **PRODIGY_WD_01** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/-PRODIGY_WD_01) |
 | **PRODIGY_WD_02** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_02) |
 | **PRODIGY_WD_03** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_03) |
 | **PRODIGY_WD_04** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_04) |
