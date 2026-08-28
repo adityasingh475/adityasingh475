@@ -75,11 +75,13 @@
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+    <img src="./dist/github-snake.svg" alt="GitHub Contribution Snake">
+  </picture>
+</p>
 
 ---
 
