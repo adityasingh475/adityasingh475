@@ -50,7 +50,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
 
 | 🚀 Project | 🛠️ Tech | 🔗 |
 |:---|:---|:---:|
