@@ -50,16 +50,14 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+## 🚀 Featured Projects
 
-| 🚀 Project | 🛠️ Tech | 
-|:---:|:---:|:---:|
-| **PRODIGY_WD_01** | HTML • CSS • JavaScript | 
-| **PRODIGY_WD_02** | HTML • CSS • JavaScript | 
-| **PRODIGY_WD_03** | HTML • CSS • JavaScript | 
-| **PRODIGY_WD_04** | HTML • CSS • JavaScript | 
-
-</div>
+| 🚀 Project | 🛠️ Tech | 🔗 |
+|:---|:---|:---:|
+| **PRODIGY_WD_01** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_01) |
+| **PRODIGY_WD_02** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_02) |
+| **PRODIGY_WD_03** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_03) |
+| **PRODIGY_WD_04** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_04) |
 
 ---
 
@@ -67,9 +65,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh475&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityasingh475&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
