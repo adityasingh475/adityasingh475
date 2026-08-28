@@ -52,7 +52,7 @@
 
 <div align="center">
 
-| 🚀 Project | 🛠️ Tech | 🔗 |
+| 🚀 Project | 🛠️ Tech | 
 |:---:|:---:|:---:|
 | **PRODIGY_WD_01** | HTML • CSS • JavaScript | 
 | **PRODIGY_WD_02** | HTML • CSS • JavaScript | 
