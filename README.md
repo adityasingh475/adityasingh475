@@ -46,16 +46,18 @@ Learning 📚 &nbsp; • &nbsp; Building 💻 &nbsp; • &nbsp; Improving 🚀
 | 🔹 **PRODIGY_WD_04** | CSS / Web Development Project |
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh475&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
