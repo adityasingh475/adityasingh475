@@ -65,9 +65,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=adityasingh475&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" width="48%"/>
+<img src="./profile/stats.svg" width="48%" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityasingh475&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%"/>
+<img src="./profile/top-langs.svg" width="48%" />
 
 </div>
 ---
