@@ -1,46 +1,46 @@
 name: Update GitHub Stats
 
 on:
-  # Update automatically every hour
+  # Update every hour
   schedule:
     - cron: "0 * * * *"
 
-  # Allow manual update from GitHub Actions
+  # Allow manual update
   workflow_dispatch:
 
-  # Update when repository changes
+  # Run when you manually update README/workflow
+  # Prevents the bot's generated SVG commit from triggering itself again
   push:
     branches:
       - main
-
-# Prevent multiple stats workflows from running at the same time
-concurrency:
-  group: github-stats
-  cancel-in-progress: true
+    paths:
+      - "README.md"
+      - ".github/workflows/stats.yml"
 
 permissions:
   contents: write
+
+# Prevent multiple stats workflows from pushing at the same time
+concurrency:
+  group: github-stats-update
+  cancel-in-progress: true
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
 
     steps:
-
-      # =====================================================
-      # Checkout profile repository
-      # =====================================================
-
+      # ==========================================
+      # Checkout repository
+      # ==========================================
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
-          persist-credentials: true
 
-      # =====================================================
-      # Generate GitHub Stats Card
-      # =====================================================
-
+      # ==========================================
+      # Generate GitHub Stats
+      # ==========================================
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -49,10 +49,9 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # =====================================================
-      # Generate GitHub Streak Card
-      # =====================================================
-
+      # ==========================================
+      # Generate GitHub Streak
+      # ==========================================
       - name: Generate GitHub Streak
         uses: zients/github-readme-streak-stats@v2
         with:
@@ -60,51 +59,28 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # =====================================================
-      # Save generated files
-      # =====================================================
-
-      - name: Save generated stats
-        run: |
-          cp profile/stats.svg /tmp/stats.svg
-          cp profile/streak.svg /tmp/streak.svg
-
-      # =====================================================
-      # Update repository safely
-      # =====================================================
-
+      # ==========================================
+      # Commit updated stats
+      # ==========================================
       - name: Commit updated stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          for attempt in 1 2 3; do
-            echo "Push attempt $attempt"
+          git add profile/stats.svg profile/streak.svg
 
-            git fetch origin main
-            git reset --hard origin/main
+          if git diff --cached --quiet; then
+            echo "No stats changes detected"
+            exit 0
+          fi
 
-            cp /tmp/stats.svg profile/stats.svg
-            cp /tmp/streak.svg profile/streak.svg
+          git commit -m "Update GitHub stats"
 
-            git add profile/stats.svg profile/streak.svg
+          # Get the latest remote changes
+          git fetch origin main
 
-            if git diff --cached --quiet; then
-              echo "No changes to commit"
-              exit 0
-            fi
+          # Rebase our stats commit on top of latest main
+          git rebase origin/main
 
-            git commit -m "Update GitHub stats"
-
-            if git push origin HEAD:main; then
-              echo "Stats updated successfully"
-              exit 0
-            fi
-
-            echo "Push failed. Retrying..."
-            git reset --hard origin/main
-            sleep 5
-          done
-
-          echo "Failed to push after 3 attempts"
-          exit 1
+          # Push updated stats
+          git push origin HEAD:main
