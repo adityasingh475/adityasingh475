@@ -619,17 +619,14 @@ Improving **problem-solving and algorithmic thinking**
   <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020&color=7C3AED"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:adityapratapsingh581@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0B1020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020&color=00E5FF"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://prodigy-wd-04-rose-ten.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B1020&color=7C3AED"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0B1020?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1020&color=00E5FF"/>
-</a>
 
 </div>
 
