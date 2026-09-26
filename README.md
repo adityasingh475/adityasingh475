@@ -211,7 +211,6 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 <img
   src="./profile/stats.svg"
   width="100%"
-  alt="Aditya Pratap Singh GitHub Stats"
 />
 
 </td>
