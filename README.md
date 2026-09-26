@@ -447,22 +447,6 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 ---
 
 <!-- ========================================================= -->
-<!--              CONTRIBUTION ACTIVITY GRAPH                 -->
-<!-- ========================================================= -->
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh475&theme=github-compact&hide_border=true"
-  alt="GitHub Contribution Activity Graph"
-/>
-
-</div>
-
----
-<!-- ========================================================= -->
 <!--                    LEARNING ROADMAP                       -->
 <!-- ========================================================= -->
 
