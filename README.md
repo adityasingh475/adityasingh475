@@ -2,23 +2,11 @@
 <!--              ADITYA PRATAP SINGH - GITHUB README         -->
 <!-- ========================================================= -->
 
-<!--
-  PROFILE:
-  GitHub: https://github.com/adityasingh475
-
-  THEME:
-  Neon Cyan + Deep Purple + Dark Navy
-
-  BANNER:
-  The custom banner is already hosted in this repository:
-  ./github-banner.png
--->
+<div align="center">
 
 <!-- ========================================================= -->
 <!--                         HERO                              -->
 <!-- ========================================================= -->
-
-<div align="center">
 
 <img
   src="https://raw.githubusercontent.com/adityasingh475/adityasingh475/main/github-banner.png"
@@ -26,28 +14,53 @@
   width="100%"
 />
 
-<br><br>
+<br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Full+Stack+Developer+%E2%9A%A1;C%2B%2B+Problem+Solver+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Interactive+Experiences+%F0%9F%92%A1;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve+%F0%9F%94%A5"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Crafting+Clean+%26+Interactive+Web+Experiences+%F0%9F%8E%A8;Building+Modern+Full--Stack+Applications+%E2%9A%A1;Solving+Problems+With+C%2B%2B+%F0%9F%A7%A0;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve+%F0%9F%94%A5"
   alt="Typing SVG"
 />
 
-<br><br>
+<br>
+
+<!-- Developer status -->
+
+<p>
+  <img
+    src="https://img.shields.io/badge/💻_Frontend-Developer-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"
+  />
+  <img
+    src="https://img.shields.io/badge/⚡_Full--Stack-Learner-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"
+  />
+  <img
+    src="https://img.shields.io/badge/🧠_DSA-C%2B%2B-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"
+  />
+  <img
+    src="https://img.shields.io/badge/🚀_Building-Projects-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"
+  />
+</p>
+
+<br>
+
+<!-- GitHub metrics -->
 
 <a href="https://github.com/adityasingh475">
-<img src="https://img.shields.io/github/followers/adityasingh475?label=Followers&style=for-the-badge&logo=github&color=00E5FF&labelColor=0B1020" />
+  <img
+    src="https://img.shields.io/github/followers/adityasingh475?label=FOLLOWERS&style=for-the-badge&logo=github&color=00E5FF&labelColor=0B1020"
+  />
 </a>
 
 <a href="https://github.com/adityasingh475?tab=repositories">
-<img src="https://img.shields.io/github/stars/adityasingh475?label=Stars&style=for-the-badge&logo=github&color=7C3AED&labelColor=0B1020" />
+  <img
+    src="https://img.shields.io/github/stars/adityasingh475?label=STARS&style=for-the-badge&logo=github&color=7C3AED&labelColor=0B1020"
+  />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020" />
+<img
+  src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020"
+/>
 
 </div>
-
-<br>
 
 ---
 
@@ -63,7 +76,7 @@
 
 **Software Engineer • Frontend Developer • Full Stack Developer**
 
-I enjoy turning ideas into **interactive, responsive and real-world applications** while continuously improving my problem-solving and development skills.
+I enjoy turning ideas into **interactive, responsive and real-world applications** while continuously improving my development and problem-solving skills.
 
 </div>
 
@@ -71,7 +84,8 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="55%" valign="top">
 
 ### 🚀 What I'm Doing
 
@@ -80,30 +94,35 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 - ⚛️ Learning and working with **React & Next.js**
 - ⚡ Exploring **Backend development & APIs**
 - 🧠 Practicing **C++ & Data Structures & Algorithms**
-- 🚀 Building real-world projects instead of only following tutorials
+- 🚀 Building real-world projects
 - 📚 Continuously learning new technologies
-- 🎯 Preparing myself for opportunities as a **Software Engineer**
+- 🎯 Preparing for opportunities as a **Software Engineer**
 
 </td>
 
-<td width="45%" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=420&lines=Code+%E2%86%92+Build+%E2%86%92+Debug;Problem+%E2%86%92+Think+%E2%86%92+Solve;Learn+%E2%86%92+Experiment+%E2%86%92+Improve;Coffee+%E2%98%95+%E2%86%92+Code+%F0%9F%92%BB" />
+### 💡 Developer Mindset
 
 <br>
 
-**💡 Developer Mindset**
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=400&lines=Think+%E2%86%92+Build+%E2%86%92+Debug;Learn+%E2%86%92+Experiment+%E2%86%92+Improve;Ideas+%E2%86%92+Code+%E2%86%92+Products;Coffee+%E2%98%95+%E2%86%92+Code+%F0%9F%92%BB"
+/>
+
+<br><br>
 
 `Learn → Build → Debug → Improve`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
 <!-- ========================================================= -->
-<!--                      QUICK FACTS                          -->
+<!--                     QUICK FACTS                           -->
 <!-- ========================================================= -->
 
 ## ⚡ Quick Facts
@@ -171,21 +190,17 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 <div align="center">
 
 <a href="https://github.com/adityasingh475">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3&ring_color=00E5FF"
-/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3&ring_color=00E5FF"
+  />
 </a>
 
 <a href="https://github.com/adityasingh475">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh475&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=E6EDF3"
-/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh475&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=E6EDF3"
+  />
 </a>
 
 </div>
@@ -227,6 +242,7 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -244,11 +260,11 @@ A responsive web page built during my Web Development journey.
 <br><br>
 
 <a href="https://github.com/adityasingh475/-PRODIGY_WD_01">
-<img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="https://wonderful-platypus-44ea94.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
 </a>
 
 </td>
@@ -268,12 +284,13 @@ A frontend project focused on creating a modern music-platform interface.
 <br><br>
 
 <a href="https://github.com/adityasingh475/PRODIGY_WD_02">
-<img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<!-- Customize this URL with your actual deployed project -->
+<!-- Replace with actual live demo URL -->
+
 <a href="YOUR_WD_02_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
 </a>
 
 </td>
@@ -288,7 +305,7 @@ A frontend project focused on creating a modern music-platform interface.
 
 **Ultimate Tic-Tac-Toe Arena**
 
-An interactive browser game with a focus on frontend logic and user interaction.
+An interactive browser game focused on frontend logic and user interaction.
 
 **Tech Stack**
 
@@ -297,12 +314,13 @@ An interactive browser game with a focus on frontend logic and user interaction.
 <br><br>
 
 <a href="https://github.com/adityasingh475/PRODIGY_WD_03">
-<img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<!-- Customize this URL with your actual deployed project -->
+<!-- Replace with actual live demo URL -->
+
 <a href="YOUR_WD_03_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
 </a>
 
 </td>
@@ -322,17 +340,19 @@ A project focused on strengthening JavaScript, UI and browser-based development 
 <br><br>
 
 <a href="https://github.com/adityasingh475/PRODIGY_WD_04">
-<img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<!-- Customize this URL with your actual deployed project -->
+<!-- Replace with actual live demo URL -->
+
 <a href="YOUR_WD_04_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
