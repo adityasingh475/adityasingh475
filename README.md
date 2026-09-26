@@ -45,23 +45,33 @@
 <!--                    GITHUB METRICS                        -->
 <!-- ========================================================= -->
 
-<p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 <a href="https://github.com/adityasingh475">
 <img src="https://img.shields.io/github/followers/adityasingh475?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00E5FF&labelColor=0B1020" />
 </a>
 
-&nbsp;
+</td>
+
+<td align="center">
 
 <a href="https://github.com/adityasingh475?tab=repositories">
 <img src="https://img.shields.io/github/stars/adityasingh475?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=0B1020" />
 </a>
 
-&nbsp;
+</td>
+
+<td align="center">
 
 <img src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020" />
 
-</p>
+</td>
+</tr>
+</table>
 
 </div>
 
