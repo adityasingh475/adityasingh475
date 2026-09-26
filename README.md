@@ -362,7 +362,7 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 ---
 
 <!-- ========================================================= -->
-<!--                    CURRENT FOCUS                          -->
+<!--                     CURRENT FOCUS                         -->
 <!-- ========================================================= -->
 
 ## 🎯 Current Focus
@@ -376,14 +376,23 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 
 ### 💻 Development
 
-**Frontend Development**  
-`████████████████████░` 95%
+<br>
 
-**Full Stack Development**  
-`█████████████████░░░` 85%
+**Frontend Development**
 
-**React & Next.js**  
-`████████████████░░░░` 80%
+███████████████████░ **95%**
+
+<br>
+
+**Full Stack Development**
+
+█████████████████░░░ **85%**
+
+<br>
+
+**React & Next.js**
+
+████████████████░░░░ **80%**
 
 </td>
 
@@ -391,14 +400,23 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 
 ### 🧠 Problem Solving
 
-**DSA & C++**  
-`█████████████████░░░` 85%
+<br>
 
-**JavaScript**  
-`██████████████████░░` 90%
+**DSA & C++**
 
-**Real-World Projects**  
-`████████████████████` 100%
+█████████████████░░░ **85%**
+
+<br>
+
+**JavaScript**
+
+██████████████████░░ **90%**
+
+<br>
+
+**Real-World Projects**
+
+████████████████████ **100%**
 
 </td>
 
@@ -407,38 +425,34 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+%E2%86%92+Testing+%E2%86%92+Improving;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Learning+Today.+Building+Tomorrow."
-  alt="Current Focus"
-/>
+> 🚀 **Learn → Build → Solve → Ship → Improve**
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                        -->
+<!--                CONTRIBUTION SNAKE                         -->
 <!-- ========================================================= -->
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-### Watch my contributions get eaten! 🍴
-
+<!-- Contribution Snake -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./dist/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/adityasingh475/adityasingh475/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./dist/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/adityasingh475/adityasingh475/output/github-contribution-grid-snake.svg"
   />
   <img
-    src="./dist/github-snake.svg"
     alt="GitHub Contribution Snake"
-    width="95%"
+    src="https://raw.githubusercontent.com/adityasingh475/adityasingh475/output/github-contribution-grid-snake.svg"
+    width="90%"
   />
 </picture>
 
@@ -447,7 +461,7 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 ---
 
 <!-- ========================================================= -->
-<!--                 ACTIVITY GRAPH                            -->
+<!--                CONTRIBUTION ACTIVITY GRAPH                -->
 <!-- ========================================================= -->
 
 ## 📈 Contribution Activity Graph
@@ -455,12 +469,14 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh475&bg_color=0B1020&color=E6EDF3&line=00E5FF&point=7C3AED&area=true&hide_border=true"
-  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh475&bg_color=0B1020&color=00E5FF&line=7C3AED&point=00E5FF&area=true&area_color=7C3AED&hide_border=true"
   alt="Aditya's GitHub Activity Graph"
+  width="95%"
 />
 
 </div>
+
+---
 
 ---
 
