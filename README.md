@@ -592,7 +592,6 @@ Improving **problem-solving and algorithmic thinking**
   <img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B1020&color=7C3AED"/>
 </a>
 
-
 </div>
 
 ---
@@ -603,22 +602,18 @@ Improving **problem-solving and algorithmic thinking**
 
 <div align="center">
 
-<br>
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Improving+%F0%9F%9A%80;See+you+on+the+next+commit+%F0%9F%92%BB"
   alt="Thanks for visiting"
 />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/BUILD-LEARN-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"/>
 <img src="https://img.shields.io/badge/REPEAT-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"/>
 
-<br><br>
+<br>
 
 ### `</> Code • Create • Learn • Repeat`
-
-<br>
 
 </div>
