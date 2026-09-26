@@ -1,118 +1,48 @@
+<!-- ======================= BANNER ======================= -->
+
+<p align="center">
+  <img src="./github-banner.png" alt="Aditya Pratap Singh - Software Engineer | Frontend Developer | Full Stack Developer" width="100%">
+</p>
+
+<br>
+
+<!-- ======================= INTRO ======================= -->
+
 <div align="center">
 
 # 👋 Hey, I'm Aditya Pratap Singh
 
-### 💻 Developer • 🚀 Learner • 🧠 Problem Solver
+### 💻 Software Engineer • 🎨 Frontend Developer • ⚡ Full Stack Developer
 
-<p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;C%2B%2B+Problem+Solver+%F0%9F%A7%A0;Learning+React+%F0%9F%8C%B1;Building+Projects+%F0%9F%9A%80" />
-</p>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Interactive+Web+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Real+Projects+%F0%9F%92%A1;Frontend+%26+Full+Stack+Developer+%F0%9F%92%BB;C%2B%2B+%26+Data+Structures+Enthusiast+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
 
 </div>
 
 ---
+
+<!-- ======================= ABOUT ======================= -->
 
 ## 👨‍💻 About Me
 
-🎓 I'm a developer who enjoys learning new technologies and building projects.
+I'm a **B.Tech Computer Science student** passionate about software development, problem solving, and building real-world applications.
 
-- 💻 Currently focusing on **Web Development**
-- 🌱 Learning **React & JavaScript**
-- 🧠 Practicing **C++ & Data Structures**
-- 🚀 Building projects and improving every day
-- 🎯 Goal: Become a skilled **Software Developer**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- 💻 Focused on **Web Development**
+- 🎨 Building responsive and interactive **Frontend applications**
+- ⚡ Exploring **Full Stack Development**
+- 🧠 Practicing **C++ & Data Structures & Algorithms**
+- ⚛️ Learning and building with **React**
+- 🚀 Creating projects to turn ideas into working products
+- 📚 Continuously improving my development and problem-solving skills
+- 🎯 Goal: Become a strong **Software Engineer**
 
 ---
 
-## 🚀 Featured Projects
+<!-- ======================= CURRENT FOCUS ======================= -->
 
+## 🚀 Currently Learning & Building
 
-| 🚀 Project | 🛠️ Tech | 🔗 |
-|:---|:---|:---:|
-| **PRODIGY_WD_01** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/-PRODIGY_WD_01) |
-| **PRODIGY_WD_02** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_02) |
-| **PRODIGY_WD_03** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_03) |
-| **PRODIGY_WD_04** | HTML • CSS • JavaScript | [View →](https://github.com/adityasingh475/PRODIGY_WD_04) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./profile/stats.svg" width="48%" />
-
-<img src="./profile/top-langs.svg" width="48%" />
-
-</div>
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-    <img src="./dist/github-snake.svg" alt="GitHub Contribution Snake">
-  </picture>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/adityasingh475">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adityasingh475/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=adityasingh475&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-
-</div>
-
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Improving 🚀**
-
-</div>
+```text
+Frontend Development     ███████████████████░░   React • JavaScript • CSS
+Full Stack Development   ████████████████░░░░░   APIs • Backend • Databases
+DSA & Problem Solving    █████████████████░░░░   C++ • LeetCode
+Projects                 ████████████████████░   Building & Improving
