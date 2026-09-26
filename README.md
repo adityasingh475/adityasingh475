@@ -196,23 +196,50 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 ---
 
 <!-- ========================================================= -->
-<!--                   GITHUB DASHBOARD                        -->
+<!--                    GITHUB STATS                          -->
 <!-- ========================================================= -->
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <div align="center">
 
+<table>
+<tr>
+
+<!-- ===================== STATS CARD ====================== -->
+
+<td width="55%" align="center">
+
+<a href="https://github.com/adityasingh475">
+
 <img
-  src="https://streak-stats.demolab.com?user=adityasingh475&theme=transparent&hide_border=true&background=0B1020&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E"
-  width="70%"
-  alt="GitHub Contribution Streak"
+  src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3&ring_color=00E5FF&rank_icon=github"
+  width="100%"
+  alt="Aditya Pratap Singh GitHub Stats"
 />
+
+</a>
+
+</td>
+
+<!-- ===================== STREAK CARD ====================== -->
+
+<td width="45%" align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=adityasingh475&hide_border=true&background=0B1020&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"
+  width="100%"
+  alt="Aditya Pratap Singh GitHub Streak"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
-
 <!-- ========================================================= -->
 <!--                  FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
