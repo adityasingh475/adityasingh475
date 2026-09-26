@@ -108,6 +108,7 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=400&lines=Think+%E2%86%92+Build+%E2%86%92+Debug;Learn+%E2%86%92+Experiment+%E2%86%92+Improve;Ideas+%E2%86%92+Code+%E2%86%92+Products;Coffee+%E2%98%95+%E2%86%92+Code+%F0%9F%92%BB"
+  alt="Developer Mindset"
 />
 
 <br><br>
@@ -189,46 +190,10 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 
 <div align="center">
 
-<a href="https://github.com/adityasingh475">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=adityasingh475&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3&ring_color=00E5FF"
-  />
-</a>
-
-<a href="https://github.com/adityasingh475">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh475&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=E6EDF3"
-  />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img
   src="https://streak-stats.demolab.com?user=adityasingh475&theme=transparent&hide_border=true&background=0B1020&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E"
   width="70%"
-/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                    GITHUB TROPHIES                        -->
-<!-- ========================================================= -->
-
-## 🏆 GitHub Trophy Room
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=adityasingh475&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"
-  width="100%"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
