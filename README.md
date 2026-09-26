@@ -582,7 +582,7 @@ Improving **problem-solving and algorithmic thinking**
 
 <a href="https://www.linkedin.com/in/adityasingh475/">
   <img
-    src="https://img.shields.io/badge/%E2%80%8B-LINKEDIN-7C3AED?style=for-the-badge&labelColor=0B1020&logoColor=white&logo=https://cdn.simpleicons.org/linkedin/ffffff"
+    src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020"
     alt="LinkedIn"
   />
 </a>
