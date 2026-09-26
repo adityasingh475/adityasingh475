@@ -23,51 +23,45 @@
 
 <br>
 
-<!-- Developer status -->
+<!-- ========================================================= -->
+<!--                 DEVELOPER STATUS BAR                     -->
+<!-- ========================================================= -->
+
+<div align="center">
 
 <p>
 
-  <img
-    src="https://img.shields.io/badge/💻_Frontend-Developer-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"
-  />
-
-  <img
-    src="https://img.shields.io/badge/⚡_Full--Stack-Learner-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"
-  />
-
-  <img
-    src="https://img.shields.io/badge/🧠_DSA-C%2B%2B-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"
-  />
-
-  <img
-    src="https://img.shields.io/badge/🚀_Building-Projects-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"
-  />
+<img src="https://img.shields.io/badge/💻_FRONTEND-DEVELOPER-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_FULL--STACK-LEARNER-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED" />
+&nbsp;
+<img src="https://img.shields.io/badge/🧠_DSA-C%2B%2B-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_BUILDING-PROJECTS-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED" />
 
 </p>
 
-<br>
+<!-- ========================================================= -->
+<!--                    GITHUB METRICS                        -->
+<!-- ========================================================= -->
 
-<!-- GitHub metrics -->
+<p>
 
 <a href="https://github.com/adityasingh475">
-
-  <img
-    src="https://img.shields.io/github/followers/adityasingh475?label=FOLLOWERS&style=for-the-badge&logo=github&color=00E5FF&labelColor=0B1020"
-  />
-
+<img src="https://img.shields.io/github/followers/adityasingh475?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00E5FF&labelColor=0B1020" />
 </a>
+
+&nbsp;
 
 <a href="https://github.com/adityasingh475?tab=repositories">
-
-  <img
-    src="https://img.shields.io/github/stars/adityasingh475?label=STARS&style=for-the-badge&logo=github&color=7C3AED&labelColor=0B1020"
-  />
-
+<img src="https://img.shields.io/github/stars/adityasingh475?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=0B1020" />
 </a>
 
-<img
-  src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020"
-/>
+&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020" />
+
+</p>
 
 </div>
 
