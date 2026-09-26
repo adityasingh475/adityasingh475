@@ -362,16 +362,264 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 ---
 
 <!-- ========================================================= -->
-<!--                     CURRENT FOCUS                         -->
+<!--                    CURRENT FOCUS                          -->
 <!-- ========================================================= -->
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-```text
-Frontend Development      ███████████████████░░
-Full Stack Development    █████████████████░░░
-React & Next.js           ████████████████░░░░
-DSA & Problem Solving     █████████████████░░░
-Real World Projects       ████████████████████
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Development
+
+**Frontend Development**  
+`████████████████████░` 95%
+
+**Full Stack Development**  
+`█████████████████░░░` 85%
+
+**React & Next.js**  
+`████████████████░░░░` 80%
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+**DSA & C++**  
+`█████████████████░░░` 85%
+
+**JavaScript**  
+`██████████████████░░` 90%
+
+**Real-World Projects**  
+`████████████████████` 100%
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+%E2%86%92+Testing+%E2%86%92+Improving;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Learning+Today.+Building+Tomorrow."
+  alt="Current Focus"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION SNAKE                        -->
+<!-- ========================================================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+### Watch my contributions get eaten! 🍴
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./dist/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./dist/github-snake.svg"
+  />
+  <img
+    src="./dist/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</picture>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                 ACTIVITY GRAPH                            -->
+<!-- ========================================================= -->
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh475&bg_color=0B1020&color=E6EDF3&line=00E5FF&point=7C3AED&area=true&hide_border=true"
+  width="95%"
+  alt="Aditya's GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    LEARNING ROADMAP                       -->
+<!-- ========================================================= -->
+
+## 🧭 Learning Roadmap
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🌐 Frontend
+
+- [x] HTML & CSS
+- [x] JavaScript
+- [x] Responsive Design
+- [x] React Basics
+- [ ] Advanced React
+- [ ] Next.js
+- [ ] Performance Optimization
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+
+- [x] REST APIs
+- [x] Node.js Basics
+- [x] Express.js
+- [x] MongoDB
+- [ ] Authentication Systems
+- [ ] Advanced Backend
+- [ ] System Design
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 DSA
+
+- [x] Arrays
+- [x] Strings
+- [x] Linked Lists
+- [x] Stack & Queue
+- [ ] Trees
+- [ ] Graphs
+- [ ] Dynamic Programming
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    WHAT I'M BUILDING                      -->
+<!-- ========================================================= -->
+
+## 🚀 What I'm Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🎨 UI
+
+Creating **clean, responsive and interactive interfaces**
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ Full Stack
+
+Connecting modern frontends with **APIs, databases & authentication**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 DSA
+
+Improving **problem-solving and algorithmic thinking**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     CONNECT                              -->
+<!-- ========================================================= -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/adityasingh475">
+  <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020&color=00E5FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adityasingh475/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020&color=7C3AED"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0B1020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020&color=00E5FF"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B1020&color=7C3AED"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0B1020?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1020&color=00E5FF"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       FOOTER                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Improving+%F0%9F%9A%80;See+you+on+the+next+commit+%F0%9F%92%BB"
+  alt="Thanks for visiting"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILD-LEARN-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"/>
+<img src="https://img.shields.io/badge/REPEAT-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"/>
+
+<br><br>
+
+### `</> Code • Create • Learn • Repeat`
+
+<br>
+
+</div>
