@@ -208,11 +208,6 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 
 <td width="55%" align="center">
 
-<img
-  src="./profile/stats.svg"
-  width="100%"
-/>
-
 </td>
 
 <td width="45%" align="center">
