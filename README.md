@@ -196,7 +196,7 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 ---
 
 <!-- ========================================================= -->
-<!--                    GITHUB STATS                           -->
+<!--                    GITHUB STATS                          -->
 <!-- ========================================================= -->
 
 ## 📊 GitHub Stats
@@ -207,7 +207,7 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 <tr>
 
 <td width="55%" align="center">
-  
+
 <img
   src="./profile/stats.svg"
   width="100%"
@@ -219,7 +219,7 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 <td width="45%" align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=adityasingh475&hide_border=true&background=0B1020&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"
+  src="./profile/streak.svg"
   width="100%"
   alt="Aditya Pratap Singh GitHub Streak"
 />
