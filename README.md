@@ -247,7 +247,7 @@ A personal portfolio showcasing my projects, technical skills, development journ
 
 <!-- Replace with your actual Portfolio live URL -->
 
-<a href=" https://prodigy-wd-04-rose-ten.vercel.app/">
+<a href="https://prodigy-wd-04-rose-ten.vercel.app/">
   <img
     src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=vercel&logoColor=00E5FF"
   />
