@@ -8,10 +8,15 @@ on:
   # Allow manual update from GitHub Actions
   workflow_dispatch:
 
-  # Also update when you push to your profile repository
+  # Update when repository changes
   push:
     branches:
       - main
+
+# Prevent multiple stats workflows from running at the same time
+concurrency:
+  group: github-stats
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -21,9 +26,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      # =====================================================
       # Checkout profile repository
+      # =====================================================
+
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       # =====================================================
       # Generate GitHub Stats Card
@@ -49,7 +61,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # =====================================================
-      # Commit updated cards
+      # Save generated files
+      # =====================================================
+
+      - name: Save generated stats
+        run: |
+          cp profile/stats.svg /tmp/stats.svg
+          cp profile/streak.svg /tmp/streak.svg
+
+      # =====================================================
+      # Update repository safely
       # =====================================================
 
       - name: Commit updated stats
@@ -57,16 +78,33 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git stash push -u -m "temporary stats changes" || true
-          git pull --rebase origin main
-          git stash pop || true
+          for attempt in 1 2 3; do
+            echo "Push attempt $attempt"
 
-          git add .
+            git fetch origin main
+            git reset --hard origin/main
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
+            cp /tmp/stats.svg profile/stats.svg
+            cp /tmp/streak.svg profile/streak.svg
 
-          git commit -m "Update GitHub stats"
-          git push origin HEAD:main
+            git add profile/stats.svg profile/streak.svg
+
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+              exit 0
+            fi
+
+            git commit -m "Update GitHub stats"
+
+            if git push origin HEAD:main; then
+              echo "Stats updated successfully"
+              exit 0
+            fi
+
+            echo "Push failed. Retrying..."
+            git reset --hard origin/main
+            sleep 5
+          done
+
+          echo "Failed to push after 3 attempts"
+          exit 1
