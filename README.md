@@ -229,13 +229,13 @@ A personal portfolio showcasing my projects, technical skills, development journ
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
 
 <br><br>
 
 <!-- Replace with your actual Portfolio GitHub repository -->
 
-<a href="YOUR_PORTFOLIO_GITHUB_URL">
+<a href="https://github.com/adityasingh475/PRODIGY_WD_04">
   <img
     src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"
   />
@@ -243,7 +243,7 @@ A personal portfolio showcasing my projects, technical skills, development journ
 
 <!-- Replace with your actual Portfolio live URL -->
 
-<a href="YOUR_PORTFOLIO_LIVE_DEMO_URL">
+<a href=" https://prodigy-wd-04-rose-ten.vercel.app/">
   <img
     src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=vercel&logoColor=00E5FF"
   />
@@ -267,7 +267,7 @@ A clean and responsive stopwatch application with interactive controls and a mod
 
 <!-- Replace with your actual Chronix GitHub repository -->
 
-<a href="YOUR_CHRONIX_GITHUB_URL">
+<a href="https://github.com/adityasingh475/PRODIGY_WD_02">
   <img
     src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"
   />
@@ -275,7 +275,7 @@ A clean and responsive stopwatch application with interactive controls and a mod
 
 <!-- Replace with your actual Chronix live URL -->
 
-<a href="YOUR_CHRONIX_LIVE_DEMO_URL">
+<a href="https://prodigy-wd-02-wine.vercel.app/">
   <img
     src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=vercel&logoColor=00E5FF"
   />
@@ -289,9 +289,9 @@ A clean and responsive stopwatch application with interactive controls and a mod
 
 <td width="50%" valign="top">
 
-### 🎮 PRODIGY_WD_03
+### 🎮 Ultimate Tic-Tac-Toe Arena
 
-**Ultimate Tic-Tac-Toe Arena**
+**Tic-Tac-Toe Game**
 
 A modern interactive Tic-Tac-Toe game with responsive design, game modes, statistics, animations and sound effects.
 
@@ -323,7 +323,7 @@ A modern interactive Tic-Tac-Toe game with responsive design, game modes, statis
 
 ### 🚀 Responsive Landing Page
 
-**PRODIGY_WD_01**
+**Interactive Landing Page**
 
 A fully responsive landing page featuring an interactive navigation menu, smooth scrolling, hover effects and a modern UI.
 
