@@ -26,18 +26,23 @@
 <!-- Developer status -->
 
 <p>
+
   <img
     src="https://img.shields.io/badge/💻_Frontend-Developer-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"
   />
+
   <img
     src="https://img.shields.io/badge/⚡_Full--Stack-Learner-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"
   />
+
   <img
     src="https://img.shields.io/badge/🧠_DSA-C%2B%2B-0B1020?style=for-the-badge&labelColor=0B1020&color=00E5FF"
   />
+
   <img
     src="https://img.shields.io/badge/🚀_Building-Projects-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED"
   />
+
 </p>
 
 <br>
@@ -45,15 +50,19 @@
 <!-- GitHub metrics -->
 
 <a href="https://github.com/adityasingh475">
+
   <img
     src="https://img.shields.io/github/followers/adityasingh475?label=FOLLOWERS&style=for-the-badge&logo=github&color=00E5FF&labelColor=0B1020"
   />
+
 </a>
 
 <a href="https://github.com/adityasingh475?tab=repositories">
+
   <img
     src="https://img.shields.io/github/stars/adityasingh475?label=STARS&style=for-the-badge&logo=github&color=7C3AED&labelColor=0B1020"
   />
+
 </a>
 
 <img
@@ -212,35 +221,43 @@ I enjoy turning ideas into **interactive, responsive and real-world applications
 
 <td width="50%" valign="top">
 
-### 🌐 PRODIGY_WD_01
+### 🌐 Personal Portfolio
 
-**Responsive Landing Page**
+**Modern Developer Portfolio**
 
-A responsive web page built during my Web Development journey.
+A personal portfolio showcasing my projects, technical skills, development journey and achievements.
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
 
 <br><br>
 
-<a href="https://github.com/adityasingh475/-PRODIGY_WD_01">
-  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<!-- Replace with your actual Portfolio GitHub repository -->
+
+<a href="YOUR_PORTFOLIO_GITHUB_URL">
+  <img
+    src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"
+  />
 </a>
 
-<a href="https://wonderful-platypus-44ea94.netlify.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+<!-- Replace with your actual Portfolio live URL -->
+
+<a href="YOUR_PORTFOLIO_LIVE_DEMO_URL">
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=vercel&logoColor=00E5FF"
+  />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎵 PRODIGY_WD_02
+### ⏱️ Chronix
 
-**Spotify-Inspired Web Interface**
+**Interactive Stopwatch Web App**
 
-A frontend project focused on creating a modern music-platform interface.
+A clean and responsive stopwatch application with interactive controls and a modern user interface.
 
 **Tech Stack**
 
@@ -248,14 +265,20 @@ A frontend project focused on creating a modern music-platform interface.
 
 <br><br>
 
-<a href="https://github.com/adityasingh475/PRODIGY_WD_02">
-  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<!-- Replace with your actual Chronix GitHub repository -->
+
+<a href="YOUR_CHRONIX_GITHUB_URL">
+  <img
+    src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"
+  />
 </a>
 
-<!-- Replace with actual live demo URL -->
+<!-- Replace with your actual Chronix live URL -->
 
-<a href="YOUR_WD_02_LIVE_DEMO_URL">
-  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+<a href="YOUR_CHRONIX_LIVE_DEMO_URL">
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=vercel&logoColor=00E5FF"
+  />
 </a>
 
 </td>
@@ -270,7 +293,7 @@ A frontend project focused on creating a modern music-platform interface.
 
 **Ultimate Tic-Tac-Toe Arena**
 
-An interactive browser game focused on frontend logic and user interaction.
+A modern interactive Tic-Tac-Toe game with responsive design, game modes, statistics, animations and sound effects.
 
 **Tech Stack**
 
@@ -279,24 +302,30 @@ An interactive browser game focused on frontend logic and user interaction.
 <br><br>
 
 <a href="https://github.com/adityasingh475/PRODIGY_WD_03">
-  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+
+  <img
+    src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"
+  />
+
 </a>
 
-<!-- Replace with actual live demo URL -->
+<a href="https://prodigywd3.vercel.app/">
 
-<a href="YOUR_WD_03_LIVE_DEMO_URL">
-  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=vercel&logoColor=00E5FF"
+  />
+
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 PRODIGY_WD_04
+### 🚀 Responsive Landing Page
 
-**Interactive Web Development Project**
+**PRODIGY_WD_01**
 
-A project focused on strengthening JavaScript, UI and browser-based development skills.
+A fully responsive landing page featuring an interactive navigation menu, smooth scrolling, hover effects and a modern UI.
 
 **Tech Stack**
 
@@ -304,14 +333,20 @@ A project focused on strengthening JavaScript, UI and browser-based development 
 
 <br><br>
 
-<a href="https://github.com/adityasingh475/PRODIGY_WD_04">
-  <img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<a href="https://github.com/adityasingh475/-PRODIGY_WD_01">
+
+  <img
+    src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"
+  />
+
 </a>
 
-<!-- Replace with actual live demo URL -->
+<a href="https://wonderful-platypus-44ea94.netlify.app/">
 
-<a href="YOUR_WD_04_LIVE_DEMO_URL">
-  <img src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-0B1020?style=for-the-badge&logo=netlify&logoColor=00E5FF"
+  />
+
 </a>
 
 </td>
