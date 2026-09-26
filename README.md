@@ -455,9 +455,8 @@ A fully responsive landing page featuring an interactive navigation menu, smooth
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh475&bg_color=0B1020&color=E6EDF3&line=00E5FF&point=7C3AED&area=true&hide_border=true&custom_title=Aditya%27s%20GitHub%20Activity"
-  alt="Aditya's GitHub Activity Graph"
-  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh475&theme=github-compact&hide_border=true"
+  alt="GitHub Contribution Activity Graph"
 />
 
 </div>
