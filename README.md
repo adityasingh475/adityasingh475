@@ -69,7 +69,7 @@
 
 <td align="center">
   <a href="https://github.com/adityasingh475">
-    <img src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/adityasingh475.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00E5FF&labelColor=0B1020" alt="Profile Views" />
   </a>
 </td>
 
