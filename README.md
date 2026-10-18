@@ -67,7 +67,7 @@
 
 <td align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020" />
+<img src="https://komarev.com/ghpvc/?username=adityasingh475&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF&labelColor=0B1020" alt="Profile Views" />
 
 </td>
 </tr>
